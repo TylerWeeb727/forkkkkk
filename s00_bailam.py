@@ -16,5 +16,5 @@ output
 Hi AI-BTX
 """
 
-def hi(khang):
-  return f'Hi {khang}'
+def hi(name):
+  return f'Hi {name}'
